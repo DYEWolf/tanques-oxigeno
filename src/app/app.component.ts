@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { StatesService } from './states.service';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,23 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'tanques-oxigeno';
+
+  states;
+
+  dropdownSelect: string = 'Seleccionar';
+
+  constructor(private statesService: StatesService) {
+
+    this.statesService.getStates().subscribe(data => {
+      this.states = data;
+      console.log(this.states)
+    });
+
+  }
+
+  selectState(state: any) {
+    console.log(state)
+    this.dropdownSelect = state.name;
+  }
+  
 }
