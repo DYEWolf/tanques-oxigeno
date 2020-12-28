@@ -14,4 +14,8 @@ export class StatesService {
     return this.http.get("./assets/data/states.json");
   }
 
+  getStateData(state):  Observable<any> {
+    return this.http.get(`./assets/data/${state}.json`);
+  }
+
 }

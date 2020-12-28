@@ -12,18 +12,22 @@ export class AppComponent {
 
   dropdownSelect: string = 'Seleccionar';
 
+  stateData;
+
   constructor(private statesService: StatesService) {
 
     this.statesService.getStates().subscribe(data => {
       this.states = data;
-      console.log(this.states)
     });
 
   }
 
-  selectState(state: any) {
-    console.log(state)
+  getStateData(state: any) {
     this.dropdownSelect = state.name;
+    const codeName = state.codeName;
+    this.statesService.getStateData(codeName).subscribe(data => {
+      this.stateData = data;
+    })
   }
   
 }

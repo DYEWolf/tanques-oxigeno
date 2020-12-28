@@ -20,11 +20,28 @@
         <button
           ngbDropdownItem
           *ngFor="let state of states"
-          (click)="selectState(state)"
+          (click)="getStateData(state)"
         >
           {{ state.name }}
         </button>
       </div>
     </div>
   </div>
+
+  <table class="table table-striped" *ngIf="stateData">
+    <thead>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Nombre</th>
+        <th scope="col">Teléfono</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let data of stateData">
+        <th scope="row">{{ data.id }}</th>
+        <td>{{ data.name }}</td>
+        <td>{{ data.phoneNumber }}</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
