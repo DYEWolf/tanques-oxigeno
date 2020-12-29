@@ -1,0 +1,397 @@
+[
+  {
+    "id": 1,
+    "name": "Grupo Médico de Asistencia Ventilatoria",
+    "phoneNumber": "56380991"
+  },
+  {
+    "id": 2,
+    "name": "Grupo Médico de Asistencia Ventilatoria",
+    "phoneNumber": "56394720"
+  },
+  {
+    "id": 3,
+    "name": "Terapia Respiratoria Integral",
+    "phoneNumber": "5543580308"
+  },
+  {
+    "id": 4,
+    "name": "Super Medi-k",
+    "phoneNumber": "5557483033"
+  },
+  {
+    "id": 5,
+    "name": "INOGEN",
+    "phoneNumber": "5553842598"
+  },
+  {
+    "id": 6,
+    "name": "Fundación AVDI Response",
+    "phoneNumber": "5611379936"
+  },
+  {
+    "id": 7,
+    "name": "Oxygen Air 1",
+    "phoneNumber": "5562345747"
+  },
+  {
+    "id": 8,
+    "name": "Oxygen Air 1",
+    "phoneNumber": "5562863990"
+  },
+  {
+    "id": 9,
+    "name": "Oxygen Air 1",
+    "phoneNumber": "5546084541"
+  },
+  {
+    "id": 10,
+    "name": "Oxygen Air 2",
+    "phoneNumber": "5519881603"
+  },
+  {
+    "id": 11,
+    "name": "Oxygen Air 2",
+    "phoneNumber": "5562347642"
+  },
+  {
+    "id": 12,
+    "name": "Oxygen Air 3",
+    "phoneNumber": "5555762108"
+  },
+  {
+    "id": 13,
+    "name": "Oxygen Air 4",
+    "phoneNumber": "5570986452"
+  },
+  {
+    "id": 14,
+    "name": "Oxygen Air 4",
+    "phoneNumber": "5570986447"
+  },
+  {
+    "id": 15,
+    "name": "SIVTA Homecare",
+    "phoneNumber": "5555283701"
+  },
+  {
+    "id": 16,
+    "name": "Medi Renta",
+    "phoneNumber": "5555847454"
+  },
+  {
+    "id": 17,
+    "name": "IABI",
+    "phoneNumber": "5563053951"
+  },
+  {
+    "id": 18,
+    "name": "IABI",
+    "phoneNumber": "5556976531"
+  },
+  {
+    "id": 19,
+    "name": "IABI",
+    "phoneNumber": "5574225453"
+  },
+  {
+    "id": 20,
+    "name": "Medical Store",
+    "phoneNumber": "5543860008"
+  },
+  {
+    "id": 21,
+    "name": "Medical Store",
+    "phoneNumber": "5554087122"
+  },
+  {
+    "id": 22,
+    "name": "MELICROM",
+    "phoneNumber": "5510494960"
+  },
+  {
+    "id": 23,
+    "name": "MELICROM",
+    "phoneNumber": "5556700953"
+  },
+  {
+    "id": 24,
+    "name": "MELICROM",
+    "phoneNumber": "5538454387"
+  },
+  {
+    "id": 25,
+    "name": "Oxigeno Rodriguez",
+    "phoneNumber": "5556700976"
+  },
+  {
+    "id": 26,
+    "name": "Oxigeno Rodriguez",
+    "phoneNumber": "5555581030"
+  },
+  {
+    "id": 27,
+    "name": "INFRA",
+    "phoneNumber": "5521221350"
+  },
+  {
+    "id": 28,
+    "name": "INFRA",
+    "phoneNumber": "018007710000"
+  },
+  {
+    "id": 29,
+    "name": "Bioingenieria Respiratoria",
+    "phoneNumber": "5585009991"
+  },
+  {
+    "id": 30,
+    "name": "Bioingenieria Respiratoria",
+    "phoneNumber": "5519997203"
+  },
+  {
+    "id": 31,
+    "name": "Bioingenieria Respiratoria",
+    "phoneNumber": "5530935443"
+  },
+  {
+    "id": 32,
+    "name": "Oxygen Air Pureza Para la Vida",
+    "phoneNumber": "5519881603"
+  },
+  {
+    "id": 33,
+    "name": "Oxygen Air Pureza Para la Vida",
+    "phoneNumber": "5546084541"
+  },
+  {
+    "id": 34,
+    "name": "Oxygen Air Pureza Para la Vida",
+    "phoneNumber": "5562345747"
+  },
+  {
+    "id": 35,
+    "name": "Aerosol Medical Systems",
+    "phoneNumber": "5556757434"
+  },
+  {
+    "id": 36,
+    "name": "Medical Center",
+    "phoneNumber": "5553353797"
+  },
+  {
+    "id": 37,
+    "name": "Medical Center",
+    "phoneNumber": "5536015033"
+  },
+  {
+    "id": 38,
+    "name": "Alare Rehabilitación",
+    "phoneNumber": "5563169367"
+  },
+  {
+    "id": 39,
+    "name": "Oxigeno y Más",
+    "phoneNumber": "5513150880"
+  },
+  {
+    "id": 40,
+    "name": "Yorgin",
+    "phoneNumber": "5578059251"
+  },
+  {
+    "id": 41,
+    "name": "Bpi Suministro Medicinal",
+    "phoneNumber": "5583844306"
+  },
+  {
+    "id": 42,
+    "name": "Aline Leo Oxigeno",
+    "phoneNumber": "5518019372"
+  },
+  {
+    "id": 43,
+    "name": "LANCETA Polanco",
+    "phoneNumber": "5584369057"
+  },
+  {
+    "id": 44,
+    "name": "LANCETA Tlalpan",
+    "phoneNumber": "5555733247"
+  },
+  {
+    "id": 45,
+    "name": "LANCETA Satelite",
+    "phoneNumber": "5553731253"
+  },
+  {
+    "id": 46,
+    "name": "DIMEER",
+    "phoneNumber": "47413037"
+  },
+  {
+    "id": 47,
+    "name": "DIMEER",
+    "phoneNumber": "50087938"
+  },
+  {
+    "id": 48,
+    "name": "DIMEER",
+    "phoneNumber": "5554859486"
+  },
+  {
+    "id": 49,
+    "name": "DIMEER",
+    "phoneNumber": "5536736272"
+  },
+  {
+    "id": 50,
+    "name": "DIMEER",
+    "phoneNumber": "5546367149"
+  },
+  {
+    "id": 51,
+    "name": "Emergencias de Oxigeno",
+    "phoneNumber": "10898997"
+  },
+  {
+    "id": 52,
+    "name": "Emergencias de Oxigeno",
+    "phoneNumber": "5515121078"
+  },
+  {
+    "id": 53,
+    "name": "Oxigeno",
+    "phoneNumber": "5529591784"
+  },
+  {
+    "id": 54,
+    "name": "MC Medical",
+    "phoneNumber": "5588710991"
+  },
+  {
+    "id": 55,
+    "name": "MC Medical",
+    "phoneNumber": "5622127212"
+  },
+  {
+    "id": 56,
+    "name": "Ari",
+    "phoneNumber": "5527122902"
+  },
+  {
+    "id": 57,
+    "name": "Jorge Mtz",
+    "phoneNumber": "5559036951"
+  },
+  {
+    "id": 58,
+    "name": "Raul Bolaños",
+    "phoneNumber": "5542237797"
+  },
+  {
+    "id": 59,
+    "name": "Raul Bolaños",
+    "phoneNumber": "5536248296"
+  },
+  {
+    "id": 60,
+    "name": "Nallely Gdt",
+    "phoneNumber": "5584988342"
+  },
+  {
+    "id": 61,
+    "name": "Oxigeno",
+    "phoneNumber": "5557771830"
+  },
+  {
+    "id": 62,
+    "name": "Oxigeno",
+    "phoneNumber": "5510898997"
+  },
+  {
+    "id": 63,
+    "name": "Concentrador",
+    "phoneNumber": "5529591784"
+  },
+  {
+    "id": 64,
+    "name": "Medical Supply Experts",
+    "phoneNumber": "5523666386"
+  },
+  {
+    "id": 65,
+    "name": "Vicky Guerrero",
+    "phoneNumber": "5555820113"
+  },
+  {
+    "id": 66,
+    "name": "Medical Future",
+    "phoneNumber": "5513150880"
+  },
+  {
+    "id": 67,
+    "name": "SECMEDIC",
+    "phoneNumber": "5571114915"
+  },
+  {
+    "id": 68,
+    "name": "PROXIMEDICA",
+    "phoneNumber": "5525976739"
+  },
+  {
+    "id": 69,
+    "name": "Med House",
+    "phoneNumber": "51715815"
+  },
+  {
+    "id": 70,
+    "name": "Med House",
+    "phoneNumber": "51717652"
+  },
+  {
+    "id": 71,
+    "name": "Renta de Oxigenos",
+    "phoneNumber": "5615575003"
+  },
+  {
+    "id": 72,
+    "name": "INFRA",
+    "phoneNumber": "5539652264"
+  },
+  {
+    "id": 73,
+    "name": "Concentradores",
+    "phoneNumber": "5542063240"
+  },
+  {
+    "id": 74,
+    "name": "Galen Medical",
+    "phoneNumber": "5541640499"
+  },
+  {
+    "id": 75,
+    "name": "Lety Gonzalez",
+    "phoneNumber": "5546726457"
+  },
+  {
+    "id": 76,
+    "name": "Mar CBI",
+    "phoneNumber": "5591114988"
+  },
+  {
+    "id": 77,
+    "name": "Lucero Montero",
+    "phoneNumber": "5576385131"
+  },
+  {
+    "id": 78,
+    "name": "Gigi Murad",
+    "phoneNumber": "5515812088"
+  },
+  {
+    "id": 79,
+    "name": "Claudia Navarro",
+    "phoneNumber": "5562541569"
+  }
+]
