@@ -5,7 +5,12 @@
 
   <div class="text-center dropdown-states">
     <div ngbDropdown class="d-inline-block">
-      <button class="btn btn-light" id="dropdownBasic1" ngbDropdownToggle>
+      <button
+        class="btn btn-light"
+        id="dropdownBasic1"
+        (click)="goTo(tableContent)"
+        ngbDropdownToggle
+      >
         {{ dropdownSelect }}
       </button>
       <div

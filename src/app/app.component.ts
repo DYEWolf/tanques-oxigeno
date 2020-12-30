@@ -30,4 +30,8 @@ export class AppComponent {
     })
   }
 
+  goTo(el: HTMLElement) {
+    el.scrollIntoView();
+  }
+  
 }
