@@ -1,20 +1,11 @@
-<nav class="navbar navbar-light bg-light" id="navtest">
-  <div class="container-fluid">
-    <span class="navbar-brand mb-0 h1"></span>
-  </div>
-</nav>
-<div class="container-fluid">
-  <h1 class="text-center">Tanques y concentradores de Oxigeno México</h1>
-
-  <p class="text-center">Selecciona el estado</p>
+<div class="image-container container-fluid">
+  <h1>Tanques y Concentradores de Oxigeno México</h1>
+  <hr />
+  <p class="text-center select-state-p">Selecciona el estado</p>
 
   <div class="text-center dropdown-states">
     <div ngbDropdown class="d-inline-block">
-      <button
-        class="btn btn-outline-primary"
-        id="dropdownBasic1"
-        ngbDropdownToggle
-      >
+      <button class="btn btn-light" id="dropdownBasic1" ngbDropdownToggle>
         {{ dropdownSelect }}
       </button>
       <div
@@ -25,14 +16,15 @@
         <button
           ngbDropdownItem
           *ngFor="let state of states"
-          (click)="getStateData(state)"
+          (click)="getStateData(state, tableContent)"
         >
           {{ state.name }}
         </button>
       </div>
     </div>
   </div>
-
+</div>
+<div class="disclaimer" #tableContent>
   <div class="table-container">
     <table class="table table-striped" *ngIf="stateData">
       <thead>
@@ -51,20 +43,16 @@
       </tbody>
     </table>
   </div>
-
-  <div class="disclaimer">
-    <p>
-      Directorio de tanques y concentradores de Oxigeno en México, la
-      disponibilidad y precio de los productos está sujeta a los vendedores,
-      esta página solo es para tener un directorio de fácil acceso a la
-      información.
-    </p>
-    <p>
-      La data es agregada manualmente, cualquier duda, correción o solicitud
-      para añadir información de otros estados favor de mandar correo a
-      <a href="mailto:conectame.app@gmail.com?subject=Soporte"
-        >conectame.app@gmail.com</a
-      >
-    </p>
-  </div>
+  <p>
+    Directorio de tanques y concentradores de Oxigeno en México, la
+    disponibilidad y precio de los productos está sujeta a los vendedores, esta
+    página solo es para tener un directorio de fácil acceso a la información.
+  </p>
+  <p>
+    La data es agregada manualmente, cualquier duda, correción o solicitud para
+    añadir información de otros estados favor de mandar correo a
+    <a href="mailto:conectame.app@gmail.com?subject=Soporte"
+      >conectame.app@gmail.com</a
+    >
+  </p>
 </div>
