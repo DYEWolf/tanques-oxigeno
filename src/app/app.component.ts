@@ -22,13 +22,17 @@ export class AppComponent {
 
   }
 
-  getStateData(state: any, el: HTMLElement) {
+  getStateData(state: any) {
     this.dropdownSelect = state.name;
     const codeName = state.codeName;
     this.statesService.getStateData(codeName).subscribe(data => {
       this.stateData = data;
       el.scrollIntoView();
     })
+  }
+
+  goTo(el: HTMLElement) {
+    el.scrollIntoView();
   }
   
 }
