@@ -5,6 +5,16 @@
     "codeName": "cdmx"
   },
   {
+    "id": 9,
+    "name": "Chihuahua",
+    "codeName": "chihuahua"
+  },
+  {
+    "id": 11,
+    "name": "Guanajuato",
+    "codeName": "gto"
+  },
+  {
     "id": 14,
     "name": "Jalisco",
     "codeName": "gdl"
