@@ -27,7 +27,6 @@ export class AppComponent {
     const codeName = state.codeName;
     this.statesService.getStateData(codeName).subscribe(data => {
       this.stateData = data;
-      el.scrollIntoView();
     })
   }
 
