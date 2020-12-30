@@ -16,7 +16,7 @@
         <button
           ngbDropdownItem
           *ngFor="let state of states"
-          (click)="getStateData(state)"
+          (click)="getStateData(state, tableContent)"
         >
           {{ state.name }}
         </button>
