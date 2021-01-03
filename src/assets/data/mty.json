@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Oxigeno Monterrey",
+    "phoneNumber": "8123360671"
+  },
+  {
+    "id": 2,
+    "name": "Salud y Hogar",
+    "phoneNumber": "83 48 49 83"
+  },
+  {
+    "id": 3,
+    "name": "Oxigeno 24 ",
+    "phoneNumber": "81 8347 0978"
+  },
+  {
+    "id": 4,
+    "name": "Medical Rental",
+    "phoneNumber": "818348 3806"
+  },
+  {
+    "id": 5,
+    "name": "Medi Lab",
+    "phoneNumber": "81 8123 9467"
+  },
+  {
+    "id": 6,
+    "name": "Grupo Infra",
+    "phoneNumber": "81 8132 0646"
+  },
+  {
+    "id": 7,
+    "name": "Ambulancias Delta",
+    "phoneNumber": "81-8333-3552"
+  }
+]

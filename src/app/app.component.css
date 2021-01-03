@@ -38,6 +38,11 @@ p {
   background-size: cover;
 }
 
+.dropdown-container {
+  overflow-y: scroll;
+  height: 140px;
+}
+
 @media only screen and (min-width: 650px) {
   .image-container {
     background-color: lightgray;
