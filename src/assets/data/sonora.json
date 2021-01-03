@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "INDA Hermosillo",
+    "phoneNumber": "6622100341"
+  },
+  {
+    "id": 2,
+    "name": "Praxair Venta Renta de Oxigeno",
+    "phoneNumber": "6622106150"
+  },
+  {
+    "id": 3,
+    "name": "INFRA Venta Renta Refill de Oxígeno",
+    "phoneNumber": "6622610300"
+  },
+  {
+    "id": 4,
+    "name": "Gases y Equipos de Hermosillo",
+    "phoneNumber": "6622762716"
+  },
+  {
+    "id": 5,
+    "name": "Oxigeno y Acetilino",
+    "phoneNumber": "6626881332"
+  },
+  {
+    "id": 6,
+    "name": "Praxair Venta y Renta de Oxigeno",
+    "phoneNumber": "8332303750"
+  },
+  {
+    "id": 7,
+    "name": "Servigases Industriales",
+    "phoneNumber": "6622416278"
+  },
+  {
+    "id": 8,
+    "name": "Servigases Industriales",
+    "phoneNumber": "6628479987"
+  }
+]

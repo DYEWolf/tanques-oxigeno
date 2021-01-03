@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Oxigeno Medicinal e Industrial",
+    "phoneNumber": "4422211522"
+  },
+  {
+    "id": 2,
+    "name": "Medical Vida",
+    "phoneNumber": "4424502217"
+  },
+  {
+    "id": 3,
+    "name": "Medical Vida",
+    "phoneNumber": "4421772290"
+  },
+  {
+    "id": 4,
+    "name": "Medical Vida",
+    "phoneNumber": "4422120395"
+  },
+  {
+    "id": 5,
+    "name": "Querenda",
+    "phoneNumber": "4424113883"
+  },
+  {
+    "id": 6,
+    "name": "Oxipurity",
+    "phoneNumber": "4421802125"
+  },
+  {
+    "id": 7,
+    "name": "Oxipurity",
+    "phoneNumber": "4425958156"
+  },
+  {
+    "id": 8,
+    "name": "Cuprosa Leal",
+    "phoneNumber": "4423322424"
+  },
+  {
+    "id": 9,
+    "name": "Hector",
+    "phoneNumber": "4421892115"
+  },
+  {
+    "id": 10,
+    "name": "Fernanda Garcia",
+    "phoneNumber": "4422060598"
+  },
+  {
+    "id": 11,
+    "name": "Oxigeno Medicinal del Bajio",
+    "phoneNumber": "4427079329"
+  },
+  {
+    "id": 12,
+    "name": "AREM Ortopédicos Tecnológico",
+    "phoneNumber": "4422163141"
+  },
+  {
+    "id": 13,
+    "name": "AREM Ortopédicos Zaragoza",
+    "phoneNumber": "4423258052"
+  },
+  {
+    "id": 14,
+    "name": "AREM Ortopédicos Juriquilla",
+    "phoneNumber": "4422147319"
+  },
+  {
+    "id": 15,
+    "name": "AREM Ortopédicos Pie de la Cuesta",
+    "phoneNumber": "4422532453"
+  },
+  {
+    "id": 16,
+    "name": "AREM Ortopédicos Urgencias",
+    "phoneNumber": "4421570667"
+  }
+]

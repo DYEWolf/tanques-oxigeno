@@ -5,6 +5,16 @@
     "codeName": "cdmx"
   },
   {
+    "id": 6,
+    "name": "Coahuila",
+    "codeName": "coahuila"
+  },
+  {
+    "id": 8,
+    "name": "Chiapas",
+    "codeName": "chiapas"
+  },
+  {
     "id": 9,
     "name": "Chihuahua",
     "codeName": "chihuahua"
@@ -23,5 +33,15 @@
     "id": 19,
     "name": "Nuevo León",
     "codeName": "mty"
+  },
+  {
+    "id": 22,
+    "name": "Querétaro",
+    "codeName": "qrto"
+  },
+  {
+    "id": 26,
+    "name": "Sonora",
+    "codeName": "sonora"
   }
 ]

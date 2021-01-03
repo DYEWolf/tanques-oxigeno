@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "Guty Perez",
+    "phoneNumber": "8711253764"
+  },
+  {
+    "id": 2,
+    "name": "Julio Marquez",
+    "phoneNumber": "8717581821"
+  },
+  {
+    "id": 3,
+    "name": "Orthorama",
+    "phoneNumber": "8715652210"
+  },
+  {
+    "id": 4,
+    "name": "Miguel Gtz",
+    "phoneNumber": "8715118808"
+  },
+  {
+    "id": 5,
+    "name": "El Internista",
+    "phoneNumber": "8711788347"
+  },
+  {
+    "id": 6,
+    "name": "Ricardo Lopez Aaldape",
+    "phoneNumber": "8712116559"
+  },
+  {
+    "id": 7,
+    "name": "Karime Lee",
+    "phoneNumber": "8717559250"
+  },
+  {
+    "id": 8,
+    "name": "Oxigases Torreón",
+    "phoneNumber": "8712328770"
+  },
+  {
+    "id": 9,
+    "name": "Oxiterapi",
+    "phoneNumber": "8711581349"
+  },
+  {
+    "id": 10,
+    "name": "Estefania Juarez",
+    "phoneNumber": "8711161638"
+  },
+  {
+    "id": 11,
+    "name": "LOG O2 Medicinal",
+    "phoneNumber": "8711402108"
+  },
+  {
+    "id": 12,
+    "name": "Renta de O2",
+    "phoneNumber": "8712111227"
+  },
+  {
+    "id": 13,
+    "name": "Dr Gustavo",
+    "phoneNumber": "8717221509"
+  },
+  {
+    "id": 14,
+    "name": "Oximedica",
+    "phoneNumber": "8712468410"
+  },
+  {
+    "id": 15,
+    "name": "Laguna Trading",
+    "phoneNumber": "8718963980"
+  },
+  {
+    "id": 16,
+    "name": "Soluciones Electro Médicas",
+    "phoneNumber": "8711174794"
+  },
+  {
+    "id": 17,
+    "name": "INFRA",
+    "phoneNumber": "8717500920"
+  }
+]
