@@ -30,6 +30,11 @@
     "codeName": "gdl"
   },
   {
+    "id": 15,
+    "name": "Estado de México",
+    "codeName": "edomx"
+  },
+  {
     "id": 19,
     "name": "Nuevo León",
     "codeName": "mty"
