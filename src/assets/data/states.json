@@ -35,6 +35,11 @@
     "codeName": "mty"
   },
   {
+    "id": 21,
+    "name": "Puebla",
+    "codeName": "puebla"
+  },
+  {
     "id": 22,
     "name": "Querétaro",
     "codeName": "qrto"
