@@ -50,8 +50,18 @@
     "codeName": "qrto"
   },
   {
+    "id": 25,
+    "name": "Sinaloa",
+    "codeName": "sinaloa"
+  },
+  {
     "id": 26,
     "name": "Sonora",
     "codeName": "sonora"
+  },
+  {
+    "id": 27,
+    "name": "Tabasco",
+    "codeName": "tabasco"
   }
 ]
