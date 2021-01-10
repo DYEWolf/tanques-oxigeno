@@ -1,5 +1,15 @@
 [
   {
+    "id": 1,
+    "name": "Aguascalientes",
+    "codeName": "ags"
+  },
+  {
+    "id": 2,
+    "name": "Baja California",
+    "codeName": "baja"
+  },
+  {
     "id": 5,
     "name": "Ciudad de Mexico",
     "codeName": "cdmx"
@@ -20,9 +30,19 @@
     "codeName": "chihuahua"
   },
   {
+    "id": 10,
+    "name": "Durango",
+    "codeName": "durango"
+  },
+  {
     "id": 11,
     "name": "Guanajuato",
     "codeName": "gto"
+  },
+  {
+    "id": 13,
+    "name": "Hidalgo",
+    "codeName": "hidalgo"
   },
   {
     "id": 14,
@@ -35,9 +55,19 @@
     "codeName": "edomx"
   },
   {
+    "id": 17,
+    "name": "Morelos",
+    "codeName": "morelos"
+  },
+  {
     "id": 19,
     "name": "Nuevo León",
     "codeName": "mty"
+  },
+  {
+    "id": 20,
+    "name": "Oaxaca",
+    "codeName": "oaxaca"
   },
   {
     "id": 21,
@@ -48,6 +78,11 @@
     "id": 22,
     "name": "Querétaro",
     "codeName": "qrto"
+  },
+  {
+    "id": 24,
+    "name": "San Luis Potosí",
+    "codeName": "snlpt"
   },
   {
     "id": 25,
@@ -63,5 +98,15 @@
     "id": 27,
     "name": "Tabasco",
     "codeName": "tabasco"
+  },
+  {
+    "id": 28,
+    "name": "Tamaulipas",
+    "codeName": "tamaulipas"
+  },
+  {
+    "id": 30,
+    "name": "Veracruz",
+    "codeName": "veracruz"
   }
 ]

@@ -72,7 +72,7 @@
   {
     "id": 15,
     "name": "AREM Ortopédicos Pie de la Cuesta",
-    "phoneNumber": "4422532453"
+    "phoneNumber": "4422537170"
   },
   {
     "id": 16,
@@ -90,8 +90,15 @@
     "phoneNumber": "442 244 2296"
   },
   {
-    "id": 19,
     "name": "IMEGAL México",
     "phoneNumber": "442 244 2280"
+  },
+  {
+    "name": "MediTec",
+    "phoneNumber": "442 4035022"
+  },
+  {
+    "name": "MediTec",
+    "phoneNumber": "442 2421044"
   }
 ]

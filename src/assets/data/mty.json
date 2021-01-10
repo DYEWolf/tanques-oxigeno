@@ -1,37 +1,78 @@
 [
   {
-    "id": 1,
     "name": "Oxigeno Monterrey",
     "phoneNumber": "8123360671"
   },
   {
-    "id": 2,
     "name": "Salud y Hogar",
     "phoneNumber": "83 48 49 83"
   },
   {
-    "id": 3,
     "name": "Oxigeno 24 ",
     "phoneNumber": "81 8347 0978"
   },
   {
-    "id": 4,
     "name": "Medical Rental",
     "phoneNumber": "818348 3806"
   },
   {
-    "id": 5,
     "name": "Medi Lab",
     "phoneNumber": "81 8123 9467"
   },
   {
-    "id": 6,
     "name": "Grupo Infra",
     "phoneNumber": "81 8132 0646"
   },
   {
-    "id": 7,
     "name": "Ambulancias Delta",
     "phoneNumber": "81-8333-3552"
+  },
+  {
+    "name": "AOC",
+    "phoneNumber": "81 86477427"
+  },
+  {
+    "name": "AOC",
+    "phoneNumber": "81 83939837"
+  },
+  {
+    "name": "Arrendadora de Muebles para Hospital",
+    "phoneNumber": "81 81621727"
+  },
+  {
+    "name": "Proximedica",
+    "phoneNumber": "81 10222583"
+  },
+  {
+    "name": "Home Medical Center",
+    "phoneNumber": "8333-5513"
+  },
+  {
+    "name": "Medigas",
+    "phoneNumber": "800-500-2222"
+  },
+  {
+    "name": "Biomec Healthcare",
+    "phoneNumber": "8116124889"
+  },
+  {
+    "name": "EMS MEX",
+    "phoneNumber": "8340 3850"
+  },
+  {
+    "name": "Vida Abuelo",
+    "phoneNumber": "8384 8516"
+  },
+  {
+    "name": "Medicare Renta",
+    "phoneNumber": "81 1964 6123"
+  },
+  {
+    "name": "Oxylife",
+    "phoneNumber": "8119416613"
+  },
+  {
+    "name": "Cedar tanques",
+    "phoneNumber": "81 81621727"
   }
 ]

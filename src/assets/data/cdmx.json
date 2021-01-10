@@ -2,12 +2,12 @@
   {
     "id": 1,
     "name": "Grupo Médico de Asistencia Ventilatoria",
-    "phoneNumber": "56380991"
+    "phoneNumber": "5556380991"
   },
   {
     "id": 2,
     "name": "Grupo Médico de Asistencia Ventilatoria",
-    "phoneNumber": "56394720"
+    "phoneNumber": "5556394720"
   },
   {
     "id": 3,
@@ -22,7 +22,12 @@
   {
     "id": 5,
     "name": "INOGEN",
-    "phoneNumber": "5553842598"
+    "phoneNumber": "5569928350"
+  },
+  {
+    "id": 5,
+    "name": "INOGEN",
+    "phoneNumber": "5555891053"
   },
   {
     "id": 6,
@@ -80,6 +85,16 @@
     "phoneNumber": "5555847454"
   },
   {
+    "id": 16,
+    "name": "Medi Renta",
+    "phoneNumber": "55846623"
+  },
+  {
+    "id": 16,
+    "name": "Medi Renta",
+    "phoneNumber": "55740058"
+  },
+  {
     "id": 17,
     "name": "IABI",
     "phoneNumber": "5563053951"
@@ -133,11 +148,6 @@
     "id": 27,
     "name": "INFRA",
     "phoneNumber": "5521221350"
-  },
-  {
-    "id": 28,
-    "name": "INFRA",
-    "phoneNumber": "018007710000"
   },
   {
     "id": 29,
@@ -342,12 +352,12 @@
   {
     "id": 69,
     "name": "Med House",
-    "phoneNumber": "51715815"
+    "phoneNumber": "5551715815"
   },
   {
     "id": 70,
     "name": "Med House",
-    "phoneNumber": "51717652"
+    "phoneNumber": "5551717652"
   },
   {
     "id": 71,
@@ -423,5 +433,85 @@
     "id": 85,
     "name": "Lic Juan Jonas Pérez Bravo",
     "phoneNumber": "5548260700"
+  },
+  {
+    "name": "Versa Home Care",
+    "phoneNumber": "5524037946"
+  },
+  {
+    "name": "Emeric equipo médico",
+    "phoneNumber": "5547321476"
+  },
+  {
+    "name": "Cristina Soto",
+    "phoneNumber": "55-18-66-47-89"
+  },
+  {
+    "name": "Veteris",
+    "phoneNumber": "55 3694 9123"
+  },
+  {
+    "name": "Veteris",
+    "phoneNumber": "552596 1119"
+  },
+  {
+    "name": "Medilandia",
+    "phoneNumber": "5555745590"
+  },
+  {
+    "name": "SisteMedica",
+    "phoneNumber": "55 52640644"
+  },
+  {
+    "name": "LUIS LEONCE",
+    "phoneNumber": "5536149161"
+  },
+  {
+    "name": "Quality of Life",
+    "phoneNumber": "52 1 55 6167 0629"
+  },
+  {
+    "name": "Oxigeno 24hrs",
+    "phoneNumber": "55 5584 6623"
+  },
+  {
+    "name": "Oxigeno",
+    "phoneNumber": "5580309290"
+  },
+  {
+    "name": "Mitsi itzel Tejeda Velázquez",
+    "phoneNumber": "5587301532"
+  },
+  {
+    "name": "Medilab Satelite",
+    "phoneNumber": "5558337416"
+  },
+  {
+    "name": "Medilab Alvaro Obregon",
+    "phoneNumber": "5555845800"
+  },
+  {
+    "name": "Medilab Hospital General",
+    "phoneNumber": "5555780039"
+  },
+  {
+    "name": "Medilab Coahuila",
+    "phoneNumber": "5552645396"
+  },
+  {
+    "name": "Medilab Centro",
+    "phoneNumber": "5518576928"
+  },
+  {
+    "name": "Medilandia",
+    "phoneNumber": "5555843272"
+  },
+  {
+    "name": "Sistemedica",
+    "phoneNumber": "5552640716"
+  },
+  {
+    "name": "Doctorcito",
+    "phoneNumber": "5620672320"
   }
 ]
