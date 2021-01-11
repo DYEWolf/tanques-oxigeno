@@ -108,5 +108,10 @@
     "id": 30,
     "name": "Veracruz",
     "codeName": "veracruz"
+  },
+  {
+    "id": 32,
+    "name": "Zacatecas",
+    "codeName": "zacatecas"
   }
 ]
