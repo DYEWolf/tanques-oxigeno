@@ -55,6 +55,11 @@
     "codeName": "edomx"
   },
   {
+    "id": 16,
+    "name": "Michoacán",
+    "codeName": "michoacan"
+  },
+  {
     "id": 17,
     "name": "Morelos",
     "codeName": "morelos"
