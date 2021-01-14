@@ -10,5 +10,49 @@
   {
     "name": "AOC",
     "phoneNumber": "833 2262121"
+  },
+  {
+    "name": "Hospital Depot",
+    "phoneNumber": "8342143156"
+  },
+  {
+    "name": "Verónica Nieto",
+    "phoneNumber": "8341305721"
+  },
+  {
+    "name": "Christus Medical Center",
+    "phoneNumber": "8341853506"
+  },
+  {
+    "name": "Jesús Treviño",
+    "phoneNumber": "8341908277"
+  },
+  {
+    "name": "Roberto Carbajal Pérez",
+    "phoneNumber": "8342648360"
+  },
+  {
+    "name": "ALFISA",
+    "phoneNumber": "8341853567"
+  },
+  {
+    "name": "Karla Zavala",
+    "phoneNumber": "8341260722"
+  },
+  {
+    "name": "Cynthia Peña",
+    "phoneNumber": "8341211679"
+  },
+  {
+    "name": "Laura González",
+    "phoneNumber": "8331554902"
+  },
+  {
+    "name": "O2 Vic",
+    "phoneNumber": "8341211679"
+  },
+  {
+    "name": "Kesne Puga",
+    "phoneNumber": "8341512460"
   }
 ]
