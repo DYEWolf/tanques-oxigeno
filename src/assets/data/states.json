@@ -40,6 +40,11 @@
     "codeName": "gto"
   },
   {
+    "id": 12,
+    "name": "Guerrero",
+    "codeName": "grro"
+  },
+  {
     "id": 13,
     "name": "Hidalgo",
     "codeName": "hidalgo"
